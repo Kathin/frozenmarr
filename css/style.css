@@ -1083,6 +1083,11 @@ html.no-mobile .goods-menu__item a:hover {
   vertical-align: top;
 }
 
+.main-page__160C p sup {
+  font-size: 15px;
+  vertical-align: 7px;
+}
+
 .main-page__promo {
   height: 480px;
   text-align: center;
