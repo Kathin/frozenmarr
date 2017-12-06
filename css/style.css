@@ -1080,7 +1080,7 @@ html.no-mobile .goods-menu__item a:hover {
   max-width: 770px;
   font-weight: 400;
   display: inline-block;
-  vertical-align: top;
+  vertical-align: bottom;
 }
 
 .main-page__160C p sup {
