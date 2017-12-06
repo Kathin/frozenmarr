@@ -1059,17 +1059,18 @@ html.no-mobile .goods-menu__item a:hover {
 }
 
 .main-page__160C img {
-  margin-bottom: 19px;
+  margin-bottom: 15px;
 }
 
 .main-page__160C h2 {
   font-weight: 300;
   font-size: 40px;
-  padding-bottom: 24px;
+  padding-bottom: 14px;
 }
 
 .main-page__160C h2 sup {
   font-size: 24px;
+  vertical-align: 21px;
 }
 
 .main-page__160C p {
